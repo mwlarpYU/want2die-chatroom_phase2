@@ -30,8 +30,8 @@ document.addEventListener("DOMContentLoaded", () => {
 		{ type: "other", text: "NPC2：2階" },
 		{ type: "other", text: "NPC2：2階" },
 	    	{ type: "other", image: "https://stickershop.line-scdn.net/stickershop/v1/product/7028/LINEStorePC/main.png" }, // 圖片訊息
-		{ type: "user", text: "歡迎加入" },
-	  	{ type: "system", text: "NPC? 加入群組" },	    
+	    	{ type: "system", text: "NPC? 加入群組" },
+		{ type: "user", text: "歡迎加入" },	    
 		{ type: "other", text: "NPC3：2階" },
 	        { type: "user", voice: "https://od.lk/s/OTlfNDc4MTcxODVf/HBD_JAZZ.mp3" } ,   // 語音訊息
 	    	{ type: "other", text: "NPC4：2階" },
