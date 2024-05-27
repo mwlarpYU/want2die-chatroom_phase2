@@ -29,11 +29,11 @@ document.addEventListener("DOMContentLoaded", () => {
 		{ type: "system", text: "XXXX年OO月OO日" },
 		{ type: "other", text: "NPC2：2階" },
 		{ type: "other", text: "NPC2：2階" },
-	    	{ type: "other", image: "https://stickershop.line-scdn.net/stickershop/v1/product/7028/LINEStorePC/main.png" }, // 圖片訊息
+	    	{ type: "user", image: "https://i.pinimg.com/originals/23/87/41/2387412105da12eeec9e5bbf6cad48c3.gif" }, // 圖片訊息
 	    	{ type: "system", text: "NPC? 加入群組" },
 		{ type: "user", text: "歡迎加入" },	    
-		{ type: "other", text: "NPC3：2階" },
-	        { type: "user", voice: "https://od.lk/s/OTlfNDc4MTcxODVf/HBD_JAZZ.mp3" } ,   // 語音訊息
+		{ type: "other", text: "NPC3：" },
+	        { type: "other", voice: "https://media85.melon365.com/other/2018/10-5/mp3273889866bc5f6ca43d46463f937ce819abffe3f785.mp3" } ,   // 語音訊息
 	    	{ type: "other", text: "NPC4：2階" },
     ];
 
