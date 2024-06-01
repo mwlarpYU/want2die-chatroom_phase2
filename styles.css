@@ -73,6 +73,12 @@ body {
     margin: 10px 0;
 }
 
+.chat-voice {
+    max-width: 100%; /* 確保音檔撥放器不超出聊天框 */
+    display: block;
+    margin: 10px 0;
+}
+
 /* Responsive design */
 @media screen and (max-width: 600px) {
     #chat-header {
